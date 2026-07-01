@@ -1,4 +1,4 @@
-# SC15DS (Steam Controller '15 Driver System)
+# SC15DS (Steam Controller '15 Driver System) # ALERT - RUN AS ADMINISTRATOR
 ![Version](https://img.shields.io/badge/Version-2.0.0_Stable-103C19.svg?color=67c219)
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-lightgrey.svg)
 ![Language](https://img.shields.io/badge/Language-C%23_.NET_7.0-brightgreen.svg)
