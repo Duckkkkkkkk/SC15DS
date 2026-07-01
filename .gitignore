@@ -1,0 +1,10 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Temporary Inno Setup files
+*.tmp
